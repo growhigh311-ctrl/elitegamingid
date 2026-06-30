@@ -5,8 +5,8 @@ export default {
   "theme": "elitegamingid",
   "color": "Dark Purple + Silver",
   "domain": "elitegamingid.com",
-  "phone": "+91 98765 43219",
-  "whatsapp": "+91 98765 43219",
+  "phone": "+91 7589045547",
+  "whatsapp": "+91 7589045547",
   "telegram": "@EliteGamingID_Official",
   "tagline": "Signature Gaming Access for Premium Players",
   "seo": {
