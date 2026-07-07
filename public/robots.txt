@@ -1,7 +1,0 @@
-# robots.txt for EliteGamingID
-User-agent: *
-Allow: /
-Disallow: /admin/
-Disallow: /drafts/
-
-Sitemap: https://elitegamingid.com/sitemap.xml

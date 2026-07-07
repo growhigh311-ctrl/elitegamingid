@@ -4,7 +4,7 @@ export default {
   "name": "EliteGamingID",
   "theme": "elitegamingid",
   "color": "Dark Purple + Silver",
-  "domain": "elitegamingid.com",
+  "domain": "elitegamingid.live",
   "phone": "+91 7589045547",
   "whatsapp": "+91 7589045547",
   "telegram": "@EliteGamingID_Official",
@@ -125,7 +125,7 @@ export default {
     {
       "id": "faq-2",
       "question": "What is the starting deposit required for EliteGamingID?",
-      "answer": "You can start betting on EliteGamingID with an initial deposit of ₹500. We support multiple local payment options for smooth transactions."
+      "answer": "You can start betting on EliteGamingID with an initial deposit of â‚¹500. We support multiple local payment options for smooth transactions."
     },
     {
       "id": "faq-3",
