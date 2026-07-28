@@ -22,8 +22,13 @@ export async function generateMetadata({ params }) {
   };
 }
 
+import { redirect } from 'next/navigation';
+
 export default async function Page({ params }) {
   const resolvedParams = await params;
   const slug = resolvedParams.slug;
+  if (slug === 'beginners-guide-ipl-betting') {
+    redirect('/beginners-guide-ipl-betting/');
+  }
   return <BlogDetails slug={slug} />;
 }

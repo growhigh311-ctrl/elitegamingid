@@ -63,10 +63,10 @@ export default function BlogList() {
                 </div>
 
                 <Link
-                  href={`/blog/${b.slug}`}
+                  href={b.slug === 'beginners-guide-ipl-betting' ? '/beginners-guide-ipl-betting/' : `/blog/${b.slug}`}
                   className="flex items-center gap-1.5 text-xs font-bold text-primary group-hover:text-primary-light transition-colors"
                 >
-                  <span>Read Guide</span>
+                  <span>{b.slug === 'beginners-guide-ipl-betting' ? 'Show More' : 'Read Guide'}</span>
                   <ArrowRight className="w-3.5 h-3.5" />
                 </Link>
               </div>
